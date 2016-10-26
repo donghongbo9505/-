@@ -1,0 +1,93 @@
+
+body{font-family: "宋体";}
+html,body{height: 100%;}
+/* header */
+header{width: 99%;height: 48px;margin-left:1%;}
+.nav{float: left;}
+.nav li{float: left;}
+.nav .disno{display: none;}
+.nav li img{width: 108px;height: 23px;}
+.nav li:nth-child(1){margin:13px 0 0 0}
+
+.login{float: right;height: 48px;line-height: 48px;}
+.login input{display: none;}
+.login a{display: block;float: left;padding:0 10px;}
+.login a .iconfont{font-size: 20px}
+/* banner */
+.banner{width: 100%;height: 90%;}
+.banner img{width: 100%;height: 45%;display: block;}
+.banner ul{width: 100%;height: 35%;background: #e6e6e6;text-align: center;padding-top:5% }
+.banner ul li:nth-child(1){font-size:30px;line-height: 60px ;font-weight: normal;}
+.banner ul li:nth-child(2){font-size:20px;line-height: 40px;margin-bottom: 30px }
+.banner ul button{width: 120px;height: 38px;margin-right: 25px;border-color: #333;background: #eee}
+
+/* shopping list */
+.list{width: 100%;margin-top:-6%;display: flex;flex-wrap: wrap;}
+.list li{margin:6% 0 3% 5%; width: 90%;}
+.list li img{width: 100%;}
+.list li h3{font-size: 25px;line-height: 40px;font-weight: normal;margin-top: 15px}
+.list li p{font-size: 15px;color: #000}
+ 
+/* banner2 */
+.banner2{width: 100%;height: 90%;margin-top: 10%}
+.banner2 img{width: 100%;height: 40%;display: block;}
+.banner2 ul{width: 100%;height: 35%;background: #333333;text-align: center;padding-top:5% ;color: #fff}
+.banner2 ul li:nth-child(1){font-size:30px;line-height: 60px ;font-weight: normal;}
+.banner2 ul li:nth-child(2){font-size:20px;line-height: 40px;margin-bottom: 30px }
+.banner2 ul button{width: 120px;height: 38px;margin-right: 25px;border-color: #fff;background: #333;color: #fff}
+
+
+/* title */
+.title{width: 100%;text-align: center;font-size: 35px;margin-top: -80px}
+
+/* shopping list2*/
+.list2{width: 100%;display: flex;flex-wrap: wrap ;}
+.list2 li{margin:6% 0 3% 5%; width: 90%;}
+.list2 li img{width: 100%;}
+.list2 li h3{font-size: 25px;line-height: 40px;font-weight: normal;margin-top: 15px}
+.list2 li p{font-size: 15px;color: #000}
+
+/* banner3 */
+.banner3{width: 100%;height: 90%;margin-top: 10%}
+.banner3 img{width: 100%;height: 40%;display: block;}
+.banner3 ul{width: 100%;height: 38%;background: #333333;text-align: center;padding-top:5% ;color: #fff}
+.banner3 ul li:nth-child(1){font-size:30px;line-height: 60px ;font-weight: normal;}
+.banner3 ul li:nth-child(2){font-size:20px;line-height: 40px;margin-bottom: 30px }
+.banner3 ul button{width: 120px;height: 38px;margin-right: 25px;border-color: #fff;background: #333333;color: #fff}
+
+
+/* footer */
+footer{width: 100%-40px;background: #eee;padding: 40px 0 0 5%}
+footer .footer{width: 100%;}
+.footer ul{width: 33%;margin-bottom: 5%}
+.footer ul li:nth-child(2),.footer ul li:nth-child(3),
+.footer ul li:nth-child(4),.footer ul li:nth-child(5),.footer ul li:nth-child(6),.footer ul li:nth-child(7){display: none}
+
+.footer ul li:nth-child(1) a {font-size: 14px}
+.footer ul li a{font-size: 12px;line-height: 25px;color: #626262}
+.footer .iconfont{margin-left: 5%;font-size: 10px}
+.thelast {width: 100%;}
+.thelast .p1{width: 97%;height: 30px;}
+.thelast .p2{width: 80%;line-height: 30px;}
+.thelast .p2 a{margin-right: 2%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

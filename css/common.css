@@ -1,0 +1,20 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td ,span{ margin:0; padding:0; }
+body { font:12px "微软雅黑"; color:#333; background:#fff;}
+fieldset, img { border:0; }
+ul { list-style:none; }
+h1, h2, h3, h4, h5, h6{ font-size:100%; }
+em { font-style:normal; }
+input, button, select, textarea { outline:none; } 
+textarea { resize:none; }
+p{ text-align:justify;}
+a { color: #666; text-decoration:none; }
+a:hover { color: #f60; text-decoration:none; }
+.clearfix:after{content:"";/*里面可以为空、内容的意思*/
+				visibility:hidden; /*隐藏*/
+				height:0;
+				display:block;
+				clear:both;
+				overflow:hidden;
+}
+
+.clearfix{zoom:1;/*这个转为解决IE6的bug的*/}
